@@ -1,0 +1,15 @@
+﻿'lab3.2.exe' (Win32): Loaded 'D:\edc\АП\3\lab3.2\x64\Debug\lab3.2.exe'. Symbols loaded.
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x158 has exited with code 0 (0x0).
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'lab3.2.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x2c34 has exited with code 0 (0x0).
+The thread 0xe24 has exited with code 0 (0x0).
+The program '[11188] lab3.2.exe' has exited with code 0 (0x0).
